@@ -1,0 +1,24 @@
+extern const Icon I_A_Off_25x27;
+canvas_draw_icon(canvas, 12, 5, &I_A_Off_25x27);
+
+extern const Icon I_A_On_25x27;
+canvas_draw_icon(canvas, 12, 35, &I_A_On_25x27);
+
+extern const Icon I_B_Off_25x27;
+canvas_draw_icon(canvas, 41, 5, &I_B_Off_25x27);
+
+extern const Icon I_B_On_25x27;
+canvas_draw_icon(canvas, 41, 35, &I_B_On_25x27);
+
+extern const Icon I_C_Off_25x27;
+canvas_draw_icon(canvas, 70, 5, &I_C_Off_25x27);
+
+extern const Icon I_C_On_25x27;
+canvas_draw_icon(canvas, 70, 35, &I_C_On_25x27);
+
+extern const Icon I_D_Off_25x27;
+canvas_draw_icon(canvas, 99, 5, &I_D_Off_25x27);
+
+extern const Icon I_D_On_25x27;
+canvas_draw_icon(canvas, 99, 35, &I_D_On_25x27);
+
