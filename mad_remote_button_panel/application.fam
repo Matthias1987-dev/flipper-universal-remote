@@ -1,0 +1,10 @@
+App(
+    appid="remote_button_panel",
+    name="MAD Remote Button Panel",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="remote_button_panel_app",
+    requires=["gui"],
+    stack_size=2 * 1024,
+    fap_icon="button_panel_img.png",
+    fap_category="MAD",
+)
