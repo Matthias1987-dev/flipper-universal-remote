@@ -1,0 +1,17 @@
+extern const Icon I_On_25x27;
+canvas_draw_icon(canvas, 12, 35, &I_On_25x27);
+
+canvas_draw_icon(canvas, 12, 5, &I_Off_25x27);
+
+canvas_draw_icon(canvas, 41, 5, &I_Off_25x27);
+
+canvas_draw_icon(canvas, 41, 35, &I_On_25x27);
+
+canvas_draw_icon(canvas, 70, 35, &I_On_25x27);
+
+canvas_draw_icon(canvas, 99, 35, &I_On_25x27);
+
+canvas_draw_icon(canvas, 99, 5, &I_Off_25x27);
+
+canvas_draw_icon(canvas, 70, 5, &I_Off_25x27);
+
