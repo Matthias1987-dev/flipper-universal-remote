@@ -5,3 +5,5 @@ My idea is to build a App for Remote Sockets i.E. https://www.pollin.de/p/sonero
 
 For the beginning i am prepair the Image's.
 
+This is only my first Prototype. 
+The MainProjekt is in application_user and flipperzero-firmware repository.
